@@ -35,7 +35,6 @@ h1 {
 	    width:30%;
 	    border:1px solid black;
 	    margin-left:2.5%;
-	    margin-right:0%;
 	    float:left;
 	    background-color: #878C92;
     }
@@ -89,7 +88,7 @@ h1 {
 		
 	}
 	span {
-	width:30%;
+	width:40%;
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
 	padding-left: 25px;
