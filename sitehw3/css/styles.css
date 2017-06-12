@@ -1,0 +1,36 @@
+#header-nav {
+	background-color: #A9A9A9;
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand {
+
+}
+.navbar-brand a h1 {
+	color:black;
+	font-size: 1.5em;
+	font-weight: bold;
+	margin-top: 0;
+	margin-left: 0;
+	line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+h1 {
+	text-align: center;
+	font-size: 2em;
+}
+#first-para {
+	margin: 25px;
+	padding: 10px;
+	background-color: #A9A9A9;
+}
+#first-para h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
+#nav-list {
+	text-align: center;
+}
